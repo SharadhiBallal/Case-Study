@@ -1,0 +1,366 @@
+Wed, 27 Nov 2019 10:48:45 [INFO] django.utils.autoreload autoreload.py run_with_reloader 597: Watching for file changes with StatReloader
+Wed, 27 Nov 2019 10:57:45 [INFO] django.utils.autoreload autoreload.py run_with_reloader 597: Watching for file changes with StatReloader
+Wed, 27 Nov 2019 11:01:55 [INFO] django.utils.autoreload autoreload.py trigger_reload 217: D:\serverApp\serverApp\serverApp\settings.py changed, reloading.
+Wed, 27 Nov 2019 11:01:56 [INFO] django.utils.autoreload autoreload.py run_with_reloader 597: Watching for file changes with StatReloader
+Wed, 27 Nov 2019 11:02:02 [INFO] django.utils.autoreload autoreload.py run_with_reloader 597: Watching for file changes with StatReloader
+Wed, 27 Nov 2019 11:02:21 [INFO] django.utils.autoreload autoreload.py trigger_reload 217: D:\serverApp\serverApp\serverApp\settings.py changed, reloading.
+Wed, 27 Nov 2019 11:02:22 [INFO] django.utils.autoreload autoreload.py run_with_reloader 597: Watching for file changes with StatReloader
+Wed, 27 Nov 2019 11:13:00 [INFO] django.utils.autoreload autoreload.py run_with_reloader 597: Watching for file changes with StatReloader
+Wed, 27 Nov 2019 11:20:55 [INFO] django.utils.autoreload autoreload.py run_with_reloader 597: Watching for file changes with StatReloader
+Wed, 27 Nov 2019 11:39:08 [INFO] django.utils.autoreload autoreload.py run_with_reloader 597: Watching for file changes with StatReloader
+Wed, 27 Nov 2019 12:06:53 [INFO] daphne.server server.py run 113: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 12:06:53 [INFO] daphne.server server.py run 119: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 12:06:53 [INFO] daphne.server server.py run 124: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 12:06:53 [ERROR] daphne.server server.py on_listener_error 138: Couldn't listen on 127.0.0.1:8000: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions.
+Wed, 27 Nov 2019 12:07:46 [INFO] daphne.server server.py run 113: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 12:07:46 [INFO] daphne.server server.py run 119: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 12:07:46 [INFO] daphne.server server.py run 124: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 12:08:10 [WARNING] django.request base.py get_response 152: Not Found: /favicon.ico
+Wed, 27 Nov 2019 12:10:03 [INFO] daphne.server server.py run 113: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 12:10:03 [INFO] daphne.server server.py run 119: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 12:10:03 [INFO] daphne.server server.py run 124: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 12:40:42 [INFO] daphne.server server.py run 113: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 12:40:42 [INFO] daphne.server server.py run 119: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 12:40:42 [INFO] daphne.server server.py run 124: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 12:45:38 [ERROR] server.views views.py ping 25: error:Internal Server Error
+Wed, 27 Nov 2019 12:45:41 [INFO] server.views views.py ping 18: success:Fetching users list
+Wed, 27 Nov 2019 12:45:41 [WARNING] django.request base.py get_response 152: Not Found: /favicon.ico
+Wed, 27 Nov 2019 12:45:46 [INFO] server.views views.py ping 18: success:Fetching users list
+Wed, 27 Nov 2019 12:45:55 [WARNING] django.request base.py get_response 152: Not Found: /users/
+Wed, 27 Nov 2019 12:47:10 [WARNING] django.request base.py get_response 152: Not Found: /
+Wed, 27 Nov 2019 12:56:41 [INFO] daphne.server server.py run 113: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 12:56:41 [INFO] daphne.server server.py run 119: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 12:56:41 [INFO] daphne.server server.py run 124: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 12:57:33 [INFO] daphne.server server.py run 113: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 12:57:33 [INFO] daphne.server server.py run 119: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 12:57:33 [INFO] daphne.server server.py run 124: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 13:01:17 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 13:01:17 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 13:01:17 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 13:25:49 [WARNING] django.request base.py get_response 152: Not Found: /
+Wed, 27 Nov 2019 13:28:07 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 13:28:07 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 13:28:07 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 13:29:47 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 13:29:47 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 13:29:47 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 13:33:28 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 13:33:28 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 13:33:28 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 13:33:35 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 13:33:35 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 13:33:35 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 13:38:02 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 13:38:02 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 13:38:02 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 13:48:11 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 13:48:11 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 13:48:11 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 13:48:27 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 13:48:27 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 13:48:27 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 13:48:38 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 13:48:38 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 13:48:38 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 14:02:57 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 14:02:57 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 14:02:57 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 14:03:51 [INFO] server.views views.py ping 20: success:Fetching users list
+Wed, 27 Nov 2019 14:04:11 [INFO] server.views views.py ping 20: success:Fetching users list
+Wed, 27 Nov 2019 14:15:09 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 14:15:09 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 14:15:09 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 14:15:13 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 14:15:13 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 14:15:13 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 14:20:04 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 14:20:04 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 14:20:04 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 14:20:24 [INFO] server.views views.py ping 21: success:Fetching users list
+Wed, 27 Nov 2019 14:22:20 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 14:22:20 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 14:22:20 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 14:24:03 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 14:24:03 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 14:24:03 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 14:24:15 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 14:24:15 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 14:24:15 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 14:25:03 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 14:25:03 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 14:25:03 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 14:25:23 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 14:25:23 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 14:25:23 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 14:25:35 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 14:25:35 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 14:25:35 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 14:25:38 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 14:25:38 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 14:25:38 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 14:25:47 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 14:25:47 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 14:25:47 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 14:25:55 [INFO] server.views views.py ping 22: success:Fetching users list
+Wed, 27 Nov 2019 14:30:23 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 14:30:23 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 14:30:23 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 14:30:30 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 14:30:30 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 14:30:30 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 14:30:45 [INFO] server.views views.py ping 22: success:Fetching users list
+Wed, 27 Nov 2019 14:32:57 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 14:32:57 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 14:32:57 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 14:33:01 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 14:33:01 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 14:33:01 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 14:53:46 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 14:53:46 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 14:53:46 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 14:54:30 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 14:54:30 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 14:54:30 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 14:54:36 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 14:54:36 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 14:54:36 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 14:57:49 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 14:57:49 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 14:57:49 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 14:58:10 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 14:58:10 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 14:58:10 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:00:58 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:00:58 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:00:58 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:01:01 [ERROR] django.request exception.py handle_uncaught_exception 124: Internal Server Error: /getdatatable/
+Traceback (most recent call last):
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 39, in inner
+    response = get_response(request)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\channels\handler.py", line 243, in process_exception_by_middleware
+    return super(AsgiHandler, self).process_exception_by_middleware(exception, request)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\serverApp\serverApp\server\views.py", line 54, in getdatatable
+    dataList.append({'type':data.msg_type,'msg':data.msg_content,'date':data.msg_date})
+AttributeError: 'QuerySet' object has no attribute 'msg_type'
+Wed, 27 Nov 2019 15:03:21 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:03:21 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:03:21 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:03:29 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:03:29 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:03:29 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:03:34 [ERROR] django.request exception.py handle_uncaught_exception 124: Internal Server Error: /getdatatable/
+Traceback (most recent call last):
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 39, in inner
+    response = get_response(request)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\channels\handler.py", line 243, in process_exception_by_middleware
+    return super(AsgiHandler, self).process_exception_by_middleware(exception, request)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\serverApp\serverApp\server\views.py", line 56, in getdatatable
+    return json.dumps(data)
+NameError: name 'json' is not defined
+Wed, 27 Nov 2019 15:06:12 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:06:12 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:06:12 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:06:17 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:06:17 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:06:17 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:06:31 [ERROR] django.request exception.py handle_uncaught_exception 124: Internal Server Error: /getdatatable/
+Traceback (most recent call last):
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 39, in inner
+    response = get_response(request)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\channels\handler.py", line 243, in process_exception_by_middleware
+    return super(AsgiHandler, self).process_exception_by_middleware(exception, request)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\serverApp\serverApp\server\views.py", line 57, in getdatatable
+    return json.dumps(data)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\json\__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\json\encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'datetime' is not JSON serializable
+Wed, 27 Nov 2019 15:06:43 [ERROR] django.request exception.py handle_uncaught_exception 124: Internal Server Error: /getdatatable/
+Traceback (most recent call last):
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 39, in inner
+    response = get_response(request)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\channels\handler.py", line 243, in process_exception_by_middleware
+    return super(AsgiHandler, self).process_exception_by_middleware(exception, request)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\serverApp\serverApp\server\views.py", line 57, in getdatatable
+    return json.dumps(data)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\json\__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\json\encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'datetime' is not JSON serializable
+Wed, 27 Nov 2019 15:09:32 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:09:32 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:09:32 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:09:38 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:09:38 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:09:38 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:09:43 [ERROR] django.request exception.py handle_uncaught_exception 124: Internal Server Error: /getdatatable/
+Traceback (most recent call last):
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 39, in inner
+    response = get_response(request)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\middleware\clickjacking.py", line 32, in process_response
+    if response.get('X-Frame-Options') is not None:
+AttributeError: 'str' object has no attribute 'get'
+Wed, 27 Nov 2019 15:12:16 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:12:16 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:12:16 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:12:20 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:12:20 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:12:20 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:12:27 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:12:27 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:12:27 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:12:35 [ERROR] django.request exception.py handle_uncaught_exception 124: Internal Server Error: /getdatatable/
+Traceback (most recent call last):
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 39, in inner
+    response = get_response(request)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\middleware\clickjacking.py", line 32, in process_response
+    if response.get('X-Frame-Options') is not None:
+AttributeError: 'str' object has no attribute 'get'
+Wed, 27 Nov 2019 15:12:53 [ERROR] django.request exception.py handle_uncaught_exception 124: Internal Server Error: /getdatatable/
+Traceback (most recent call last):
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 39, in inner
+    response = get_response(request)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\middleware\clickjacking.py", line 32, in process_response
+    if response.get('X-Frame-Options') is not None:
+AttributeError: 'str' object has no attribute 'get'
+Wed, 27 Nov 2019 15:16:59 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:16:59 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:16:59 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:17:23 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:17:23 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:17:23 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:17:28 [ERROR] django.request exception.py handle_uncaught_exception 124: Internal Server Error: /getdatatable/
+Traceback (most recent call last):
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 39, in inner
+    response = get_response(request)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\channels\handler.py", line 243, in process_exception_by_middleware
+    return super(AsgiHandler, self).process_exception_by_middleware(exception, request)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\serverApp\serverApp\server\views.py", line 53, in getdatatable
+    dataList.append({'type':each.msg_type,'msg':each.msg_content})
+NameError: name 'dataList' is not defined
+Wed, 27 Nov 2019 15:17:55 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:17:55 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:17:55 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:17:58 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:17:58 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:17:58 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:18:01 [ERROR] django.request exception.py handle_uncaught_exception 124: Internal Server Error: /getdatatable/
+Traceback (most recent call last):
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 39, in inner
+    response = get_response(request)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\channels\handler.py", line 243, in process_exception_by_middleware
+    return super(AsgiHandler, self).process_exception_by_middleware(exception, request)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\serverApp\serverApp\server\views.py", line 55, in getdatatable
+    return json.dump(dataList)
+TypeError: dump() missing 1 required positional argument: 'fp'
+Wed, 27 Nov 2019 15:18:52 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:18:52 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:18:52 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:19:01 [ERROR] django.request exception.py handle_uncaught_exception 124: Internal Server Error: /getdatatable/
+Traceback (most recent call last):
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 39, in inner
+    response = get_response(request)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Sballal\AppData\Local\Programs\Python\Python36\lib\site-packages\django\middleware\clickjacking.py", line 32, in process_response
+    if response.get('X-Frame-Options') is not None:
+AttributeError: 'str' object has no attribute 'get'
+Wed, 27 Nov 2019 15:21:01 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:21:01 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:21:01 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:21:07 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:21:07 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:21:07 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:28:21 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:28:21 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:28:21 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:28:27 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:28:27 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:28:27 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:29:48 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:29:48 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:29:48 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:31:24 [INFO] server.views views.py ping 23: success:Fetching users list
+Wed, 27 Nov 2019 15:34:29 [INFO] server.views views.py ping 23: success:Fetching users list
+Wed, 27 Nov 2019 15:35:26 [INFO] server.views views.py ping 23: success:Fetching users list
+Wed, 27 Nov 2019 15:35:42 [INFO] server.views views.py ping 23: success:Fetching users list
+Wed, 27 Nov 2019 15:36:27 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:36:27 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:36:27 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:36:39 [INFO] server.views views.py ping 23: success:Fetching users list
+Wed, 27 Nov 2019 15:37:10 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:37:10 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:37:10 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:37:42 [INFO] server.views views.py ping 23: success:Fetching users list
+Wed, 27 Nov 2019 15:38:18 [INFO] server.views views.py ping 23: success:Fetching users list
+Wed, 27 Nov 2019 15:38:53 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:38:53 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:38:53 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:39:33 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:39:33 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:39:33 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:39:37 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:39:37 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:39:37 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:41:51 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:41:51 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:41:51 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:42:20 [INFO] server.views views.py ping 23: success:Fetching users list
+Wed, 27 Nov 2019 15:42:20 [ERROR] daphne.server server.py backend_reader_sync 152: HTTP/WS send decode error: Got invalid WebSocket reply message on daphne.response.PAwFpMYRpA!OzfQTsbxbh - contains unknown keys {'success'} (looking for either {'accept', 'text', 'bytes', 'close'})
+Wed, 27 Nov 2019 15:43:50 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:43:50 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:43:50 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:44:05 [INFO] server.views views.py ping 23: success:Fetching users list
+Wed, 27 Nov 2019 15:44:05 [ERROR] daphne.server server.py backend_reader_sync 152: HTTP/WS send decode error: 'dict' object has no attribute 'encode'
+Wed, 27 Nov 2019 15:46:26 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:46:26 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:46:26 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:46:47 [INFO] server.views views.py ping 23: success:Fetching users list
+Wed, 27 Nov 2019 15:49:19 [INFO] daphne.server server.py run 110: HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+Wed, 27 Nov 2019 15:49:19 [INFO] daphne.server server.py run 116: Using busy-loop synchronous mode on channel layer
+Wed, 27 Nov 2019 15:49:19 [INFO] daphne.server server.py run 121: Listening on endpoint tcp:port=8000:interface=127.0.0.1
+Wed, 27 Nov 2019 15:49:43 [INFO] server.views views.py ping 27: Info:User is trying to fetch past 1 year data.
+Wed, 27 Nov 2019 15:49:52 [INFO] server.views views.py ping 23: success:Fetching users list
+Wed, 27 Nov 2019 15:50:13 [INFO] server.views views.py ping 23: success:Fetching users list
+Wed, 27 Nov 2019 15:50:29 [INFO] server.views views.py ping 27: Info:User is trying to fetch past 1 year data.
+Wed, 27 Nov 2019 15:50:37 [INFO] server.views views.py ping 23: success:Fetching users list
