@@ -1,5 +1,6 @@
 from django.shortcuts import render
 import logging
+import datetime
 from django.http import HttpResponse
 import time
 import json
@@ -37,10 +38,11 @@ def ping(request):
         logger.error(response)
 
     #Save in database for later refrence
-    m = logDetails(msg_type=result,msg_content=response, msg_date=timezone.now())
+    m = logDetails(msg_type=result,msg_content=response, msg_date=datetime.datetime.now())
     m.save()
+   
     #Send response to monitor
-    data = result+"|"+response
+    data = result+"|"+response+"|"+myconverter(m.msg_date)
     Group('users').send({'text':data})
     return HttpResponse(response)
 
@@ -49,11 +51,16 @@ def monitor(request):
     return render(request,'monitor.html')
 
 def getdatatable(request):
-    all_message = logDetails.objects.order_by('-msg_date').all()
+    all_message = logDetails.objects.order_by('-msg_date')
     dataList=[]
     for each in all_message:
-        dataList.append({'type':each.msg_type,'msg':each.msg_content})
+        dataList.append({'type':each.msg_type,'msg':each.msg_content,'date':each.msg_date})
     data = { "data": dataList}
-    return  HttpResponse(json.dumps(data), content_type="application/json")
+    return  HttpResponse(json.dumps(data, default = myconverter), content_type="application/json")
+
+
+def myconverter(o):
+    if isinstance(o, datetime.datetime):
+        return o.__str__()
     
     
