@@ -7,6 +7,8 @@
 (Ref : https://github.com/MicrosoftArchive/redis/releases/download/win-3.0.504/Redis-x64-3.0.504.msi)
 
 5.Run Server :
+  python manage.py makemigrations server
+python manage.py migrate
    python manage.py runserver 
 6. To run simulator :
   python simulator.py
