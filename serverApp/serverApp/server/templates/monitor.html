@@ -38,8 +38,10 @@ tr:nth-child(even) {
         "columns": [
             { "data": "type" },
             { "data": "msg" },
+			{ "data": "date" },
            
         ],
+		"order": [[ 2, "desc" ]]
 		});
     } );
     var socket = new WebSocket('ws://' + window.location.host );
@@ -55,7 +57,7 @@ tr:nth-child(even) {
 	var jsonObject = event.data;
 	var res = jsonObject.split("|");
 	
-	table.row.add( {'type':res[0],'msg':res[1]}).draw( false );
+	table.row.add( {'type':res[0],'msg':res[1],'date':res[2]}).draw( false );
      
     }
     
@@ -69,6 +71,7 @@ tr:nth-child(even) {
 	<tr>
 		<th>Type</th>
 		<th>Message</th>
+		<th>Date</th>
 		 
 	</tr>
 </thead>
